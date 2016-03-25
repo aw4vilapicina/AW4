@@ -1,0 +1,51 @@
+Added Pin To Net: NetName=B1 Pin=TFT_CON1-1
+Added Pin To Net: NetName=B1 Pin=TFT_CON-1
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=TFT_CON-3
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=TFT_CON-5
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=TFT_CON1-7
+Added Pin To Net: NetName=B4 Pin=TFT_CON-7
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=TFT_CON1-9
+Added Pin To Net: NetName=B5 Pin=TFT_CON-9
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=TFT_CON-11
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=TFT_CON1-13
+Added Pin To Net: NetName=B7 Pin=TFT_CON-13
+Added Net: Name=B7
+Added Pin To Net: NetName=B8 Pin=TFT_CON1-15
+Added Pin To Net: NetName=B8 Pin=TFT_CON-15
+Added Net: Name=B8
+Added Pin To Net: NetName=B9 Pin=TFT_CON1-17
+Added Pin To Net: NetName=B9 Pin=TFT_CON-17
+Added Net: Name=B9
+Added Pin To Net: NetName=B10 Pin=TFT_CON1-19
+Added Pin To Net: NetName=B10 Pin=TFT_CON-19
+Added Net: Name=B10
+Added Pin To Net: NetName=B11 Pin=TFT_CON1-21
+Added Pin To Net: NetName=B11 Pin=TFT_CON-21
+Added Net: Name=B11
+Added Pin To Net: NetName=B12 Pin=TFT_CON1-23
+Added Pin To Net: NetName=B12 Pin=TFT_CON-23
+Added Net: Name=B12
+Added Pin To Net: NetName=B13 Pin=TFT_CON1-25
+Added Pin To Net: NetName=B13 Pin=TFT_CON-25
+Added Net: Name=B13
+Added Pin To Net: NetName=B14 Pin=TFT_CON1-27
+Added Pin To Net: NetName=B14 Pin=TFT_CON-27
+Added Net: Name=B14
+Added Pin To Net: NetName=B15 Pin=TFT_CON1-29
+Added Net: Name=B15
+Added Pin To Net: NetName=B16 Pin=TFT_CON1-31
+Added Pin To Net: NetName=B16 Pin=TFT_CON-31
+Added Net: Name=B16
+Added Pin To Net: NetName=B17 Pin=TFT_CON1-33
+Added Pin To Net: NetName=B17 Pin=TFT_CON-33
+Added Net: Name=B17
+Added Pin To Net: NetName=B18 Pin=TFT_CON1-35
+Added Pin To Net: NetName=B18 Pin=TFT_CON-35
+Added Net: Name=B18
+Added Class: Name=B[1..18]

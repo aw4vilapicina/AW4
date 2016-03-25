@@ -1,0 +1,10 @@
+Output: Orcad/PCB2 Netlist
+Type  : OrCadPCB2Netlist
+From  : Project [EXPANSION PUERTOS MEGA256.PrjPcb]
+   Generated File[Sheet1.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:16:13 On 13/12/2015

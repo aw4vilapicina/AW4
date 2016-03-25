@@ -1,0 +1,65 @@
+Added Component: Designator=JP7(SIP_8)
+Added Component: Designator=JP8(SIP_8)
+Added Component: Designator=JP9(SIP_8)
+Added Component: Designator=JP10(SIP_8)
+Added Component: Designator=JP11(SIP_8)
+Added Component: Designator=JP12(SIP_10)
+Added Component: Designator=TFT_CON1(SIP_2X18)
+Added Pin To Net: NetName=NetJP1_1 Pin=JP7-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP7-2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP7-3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP7-4
+Added Pin To Net: NetName=NetJP1_5 Pin=JP7-5
+Added Pin To Net: NetName=NetJP1_6 Pin=JP7-6
+Added Pin To Net: NetName=NetJP1_7 Pin=JP7-7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP7-8
+Added Pin To Net: NetName=NetJP2_1 Pin=JP8-1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP8-2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP8-3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP8-4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP8-5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP8-6
+Added Pin To Net: NetName=NetJP2_7 Pin=JP8-7
+Added Pin To Net: NetName=NetJP2_8 Pin=JP8-8
+Added Pin To Net: NetName=NetJP3_1 Pin=JP9-1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP9-2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP9-3
+Added Pin To Net: NetName=NetJP3_4 Pin=JP9-4
+Added Pin To Net: NetName=NetJP3_5 Pin=JP9-5
+Added Pin To Net: NetName=NetJP3_6 Pin=JP9-6
+Added Pin To Net: NetName=NetJP3_7 Pin=JP9-7
+Added Pin To Net: NetName=NetJP3_8 Pin=JP9-8
+Added Pin To Net: NetName=NetJP4_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP4_2 Pin=JP10-2
+Added Pin To Net: NetName=NetJP4_3 Pin=JP10-3
+Added Pin To Net: NetName=NetJP4_4 Pin=JP10-4
+Added Pin To Net: NetName=NetJP4_5 Pin=JP10-5
+Added Pin To Net: NetName=NetJP4_6 Pin=JP10-6
+Added Pin To Net: NetName=NetJP4_7 Pin=JP10-7
+Added Pin To Net: NetName=NetJP4_8 Pin=JP10-8
+Added Pin To Net: NetName=NetJP5_1 Pin=JP11-1
+Added Pin To Net: NetName=NetJP5_2 Pin=JP11-2
+Added Pin To Net: NetName=NetJP5_3 Pin=JP11-3
+Added Pin To Net: NetName=NetJP5_4 Pin=JP11-4
+Added Pin To Net: NetName=NetJP5_5 Pin=JP11-5
+Added Pin To Net: NetName=NetJP5_6 Pin=JP11-6
+Added Pin To Net: NetName=NetJP5_7 Pin=JP11-7
+Added Pin To Net: NetName=NetJP5_8 Pin=JP11-8
+Added Pin To Net: NetName=NetJP6_1 Pin=JP12-1
+Added Pin To Net: NetName=NetJP6_2 Pin=JP12-2
+Added Pin To Net: NetName=NetJP6_3 Pin=JP12-3
+Added Pin To Net: NetName=NetJP6_4 Pin=JP12-4
+Added Pin To Net: NetName=NetJP6_5 Pin=JP12-5
+Added Pin To Net: NetName=NetJP6_6 Pin=JP12-6
+Added Pin To Net: NetName=NetJP6_7 Pin=JP12-7
+Added Pin To Net: NetName=NetJP6_8 Pin=JP12-8
+Added Pin To Net: NetName=NetJP6_9 Pin=JP12-9
+Added Pin To Net: NetName=NetJP6_10 Pin=JP12-10
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP7 SIP_8
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP8 SIP_8
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP9 SIP_8
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP10 SIP_8
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP11 SIP_8
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component JP12 SIP_10
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA6 REGLETA_4
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component TFT_CON1 SIP_2X18

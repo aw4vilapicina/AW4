@@ -1,0 +1,8 @@
+Added Component: Designator=REGLETA12(REGLETA_6)
+Added Pin To Net: NetName=NetJP6_5 Pin=REGLETA12-1
+Added Pin To Net: NetName=NetJP6_6 Pin=REGLETA12-2
+Added Pin To Net: NetName=NetJP6_7 Pin=REGLETA12-3
+Added Pin To Net: NetName=NetJP6_8 Pin=REGLETA12-4
+Added Pin To Net: NetName=NetJP6_9 Pin=REGLETA12-5
+Added Pin To Net: NetName=NetJP6_10 Pin=REGLETA12-6
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA12 REGLETA_6

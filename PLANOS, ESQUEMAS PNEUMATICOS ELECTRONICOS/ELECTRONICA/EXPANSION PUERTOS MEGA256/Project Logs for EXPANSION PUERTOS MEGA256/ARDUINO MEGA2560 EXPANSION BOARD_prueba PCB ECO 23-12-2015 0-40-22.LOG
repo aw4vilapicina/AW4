@@ -1,0 +1,37 @@
+Change Component Comment : Designator=POWER Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA1 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA2 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA3 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA4 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA5 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA6 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA7 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA8 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA9 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA10 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA11 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA14 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=REGLETA15 Old Comment= New Comment=REGLETA_4
+Change Component Comment : Designator=ICSP Old Comment= New Comment=SIP_2X3
+Change Component Comment : Designator=TFT_CON Old Comment= New Comment=SIP_2X18
+Change Component Comment : Designator=JP1 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP2 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP3 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP4 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP5 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP7 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP8 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP9 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP10 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP11 Old Comment= New Comment=SIP_8
+Change Component Comment : Designator=JP6 Old Comment= New Comment=SIP_10
+Change Component Comment : Designator=JP12 Old Comment= New Comment=SIP_10
+Added Component: Designator=REGLETA12(REGLETA_6)
+Added Pin To Net: NetName=NetJP6_5 Pin=REGLETA12-1
+Added Pin To Net: NetName=NetJP6_6 Pin=REGLETA12-2
+Added Pin To Net: NetName=NetJP6_7 Pin=REGLETA12-3
+Added Pin To Net: NetName=NetJP6_8 Pin=REGLETA12-4
+Added Pin To Net: NetName=NetJP6_9 Pin=REGLETA12-5
+Added Pin To Net: NetName=NetJP6_10 Pin=REGLETA12-6
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA12 REGLETA_6
+Added Room: Name=ARDUINO MEGA2560 EXPANSION BOARD

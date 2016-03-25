@@ -1,0 +1,15 @@
+Added Component: Designator=1(SIP_8)
+Added Component: Designator=2(SIP_8)
+Added Component: Designator=3(SIP_8)
+Added Component: Designator=4(SIP_8)
+Added Component: Designator=5(SIP_2X18)
+Added Component: Designator=6(SIP_8)
+Added Component: Designator=7(SIP_10)
+Added Pin To Net: NetName=Net5_19 Pin=5-19
+Added Pin To Net: NetName=Net5_19 Pin=5-34
+Added Net: Name=Net5_19
+Added Pin To Net: NetName=Net5_36 Pin=5-36
+Added Pin To Net: NetName=Net5_36 Pin=7-7
+Added Net: Name=Net5_36
+Added Class: Name=ARDUINO MEGA2560 EXPANSION BOARD
+Added Room: Name=ARDUINO MEGA2560 EXPANSION BOARD

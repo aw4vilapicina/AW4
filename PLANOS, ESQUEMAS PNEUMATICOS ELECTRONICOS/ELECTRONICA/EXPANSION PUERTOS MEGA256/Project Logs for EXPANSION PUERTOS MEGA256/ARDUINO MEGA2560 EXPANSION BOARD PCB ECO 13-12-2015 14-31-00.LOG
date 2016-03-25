@@ -1,0 +1,173 @@
+Added Component: Designator=ICSP(SIP_2X03)
+Added Component: Designator=JP1(SIP_8)
+Added Component: Designator=JP2(SIP_8)
+Added Component: Designator=JP3(SIP_8)
+Added Component: Designator=JP4(SIP_8)
+Added Component: Designator=JP5(SIP_8)
+Added Component: Designator=JP6(SIP_10)
+Added Component: Designator=REGLETA1(REGLETA_4)
+Added Component: Designator=REGLETA2(REGLETA_4)
+Added Component: Designator=REGLETA3(REGLETA_4)
+Added Component: Designator=REGLETA4(REGLETA_4)
+Added Component: Designator=REGLETA5(REGLETA_4)
+Added Component: Designator=REGLETA6(REGLETA_4)
+Added Component: Designator=REGLETA6(REGLETA_4)
+Added Component: Designator=REGLETA7(REGLETA_4)
+Added Component: Designator=REGLETA8(REGLETA_4)
+Added Component: Designator=REGLETA9(REGLETA_4)
+Added Component: Designator=REGLETA10(REGLETA_4)
+Added Component: Designator=REGLETA11(REGLETA_4)
+Added Component: Designator=REGLETA12(REGLETA_2)
+Added Component: Designator=TFT_CON(SIP_2X18)
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=REGLETA1-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=REGLETA1-2
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=REGLETA1-3
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=REGLETA1-4
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=REGLETA2-1
+Added Net: Name=NetJP1_5
+Added Pin To Net: NetName=NetJP1_6 Pin=JP1-6
+Added Pin To Net: NetName=NetJP1_6 Pin=REGLETA2-2
+Added Net: Name=NetJP1_6
+Added Pin To Net: NetName=NetJP1_7 Pin=JP1-7
+Added Pin To Net: NetName=NetJP1_7 Pin=REGLETA2-3
+Added Net: Name=NetJP1_7
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=REGLETA2-4
+Added Net: Name=NetJP1_8
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=REGLETA3-1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=REGLETA3-2
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=REGLETA3-3
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=REGLETA3-4
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=REGLETA4-1
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP2-6
+Added Pin To Net: NetName=NetJP2_6 Pin=REGLETA4-2
+Added Net: Name=NetJP2_6
+Added Pin To Net: NetName=NetJP2_7 Pin=JP2-7
+Added Pin To Net: NetName=NetJP2_7 Pin=REGLETA4-3
+Added Net: Name=NetJP2_7
+Added Pin To Net: NetName=NetJP2_8 Pin=JP2-8
+Added Pin To Net: NetName=NetJP2_8 Pin=REGLETA4-4
+Added Net: Name=NetJP2_8
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_1 Pin=REGLETA5-1
+Added Net: Name=NetJP3_1
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=REGLETA5-2
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=REGLETA5-3
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetJP3_4 Pin=JP3-4
+Added Pin To Net: NetName=NetJP3_4 Pin=REGLETA5-4
+Added Net: Name=NetJP3_4
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_5 Pin=REGLETA6-1
+Added Net: Name=NetJP3_5
+Added Pin To Net: NetName=NetJP3_6 Pin=JP3-6
+Added Pin To Net: NetName=NetJP3_6 Pin=REGLETA6-2
+Added Net: Name=NetJP3_6
+Added Pin To Net: NetName=NetJP3_7 Pin=JP3-7
+Added Pin To Net: NetName=NetJP3_7 Pin=REGLETA6-3
+Added Net: Name=NetJP3_7
+Added Pin To Net: NetName=NetJP3_8 Pin=JP3-8
+Added Pin To Net: NetName=NetJP3_8 Pin=REGLETA6-4
+Added Net: Name=NetJP3_8
+Added Pin To Net: NetName=NetJP4_1 Pin=JP4-1
+Added Pin To Net: NetName=NetJP4_1 Pin=REGLETA6-1
+Added Net: Name=NetJP4_1
+Added Pin To Net: NetName=NetJP4_2 Pin=JP4-2
+Added Pin To Net: NetName=NetJP4_2 Pin=REGLETA6-2
+Added Net: Name=NetJP4_2
+Added Pin To Net: NetName=NetJP4_3 Pin=JP4-3
+Added Pin To Net: NetName=NetJP4_3 Pin=REGLETA6-3
+Added Net: Name=NetJP4_3
+Added Pin To Net: NetName=NetJP4_4 Pin=JP4-4
+Added Pin To Net: NetName=NetJP4_4 Pin=REGLETA6-4
+Added Net: Name=NetJP4_4
+Added Pin To Net: NetName=NetJP4_5 Pin=JP4-5
+Added Pin To Net: NetName=NetJP4_5 Pin=REGLETA7-1
+Added Net: Name=NetJP4_5
+Added Pin To Net: NetName=NetJP4_6 Pin=JP4-6
+Added Pin To Net: NetName=NetJP4_6 Pin=REGLETA7-2
+Added Net: Name=NetJP4_6
+Added Pin To Net: NetName=NetJP4_7 Pin=JP4-7
+Added Pin To Net: NetName=NetJP4_7 Pin=REGLETA7-3
+Added Net: Name=NetJP4_7
+Added Pin To Net: NetName=NetJP4_8 Pin=JP4-8
+Added Pin To Net: NetName=NetJP4_8 Pin=REGLETA7-4
+Added Net: Name=NetJP4_8
+Added Pin To Net: NetName=NetJP5_1 Pin=JP5-1
+Added Pin To Net: NetName=NetJP5_1 Pin=REGLETA8-1
+Added Net: Name=NetJP5_1
+Added Pin To Net: NetName=NetJP5_2 Pin=JP5-2
+Added Pin To Net: NetName=NetJP5_2 Pin=REGLETA8-2
+Added Net: Name=NetJP5_2
+Added Pin To Net: NetName=NetJP5_3 Pin=JP5-3
+Added Pin To Net: NetName=NetJP5_3 Pin=REGLETA8-3
+Added Net: Name=NetJP5_3
+Added Pin To Net: NetName=NetJP5_4 Pin=JP5-4
+Added Pin To Net: NetName=NetJP5_4 Pin=REGLETA8-4
+Added Net: Name=NetJP5_4
+Added Pin To Net: NetName=NetJP5_5 Pin=JP5-5
+Added Pin To Net: NetName=NetJP5_5 Pin=REGLETA9-1
+Added Net: Name=NetJP5_5
+Added Pin To Net: NetName=NetJP5_6 Pin=JP5-6
+Added Pin To Net: NetName=NetJP5_6 Pin=REGLETA9-2
+Added Net: Name=NetJP5_6
+Added Pin To Net: NetName=NetJP5_7 Pin=JP5-7
+Added Pin To Net: NetName=NetJP5_7 Pin=REGLETA9-3
+Added Net: Name=NetJP5_7
+Added Pin To Net: NetName=NetJP5_8 Pin=JP5-8
+Added Pin To Net: NetName=NetJP5_8 Pin=REGLETA9-4
+Added Net: Name=NetJP5_8
+Added Pin To Net: NetName=NetJP6_1 Pin=JP6-1
+Added Pin To Net: NetName=NetJP6_1 Pin=REGLETA10-1
+Added Net: Name=NetJP6_1
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-2
+Added Pin To Net: NetName=NetJP6_2 Pin=REGLETA10-2
+Added Net: Name=NetJP6_2
+Added Pin To Net: NetName=NetJP6_3 Pin=JP6-3
+Added Pin To Net: NetName=NetJP6_3 Pin=REGLETA10-3
+Added Net: Name=NetJP6_3
+Added Pin To Net: NetName=NetJP6_4 Pin=JP6-4
+Added Pin To Net: NetName=NetJP6_4 Pin=REGLETA10-4
+Added Net: Name=NetJP6_4
+Added Pin To Net: NetName=NetJP6_5 Pin=JP6-5
+Added Pin To Net: NetName=NetJP6_5 Pin=REGLETA11-1
+Added Net: Name=NetJP6_5
+Added Pin To Net: NetName=NetJP6_6 Pin=JP6-6
+Added Pin To Net: NetName=NetJP6_6 Pin=REGLETA11-2
+Added Net: Name=NetJP6_6
+Added Pin To Net: NetName=NetJP6_7 Pin=JP6-7
+Added Pin To Net: NetName=NetJP6_7 Pin=REGLETA11-3
+Added Net: Name=NetJP6_7
+Added Pin To Net: NetName=NetJP6_8 Pin=JP6-8
+Added Pin To Net: NetName=NetJP6_8 Pin=REGLETA11-4
+Added Net: Name=NetJP6_8
+Added Pin To Net: NetName=NetJP6_9 Pin=JP6-9
+Added Pin To Net: NetName=NetJP6_9 Pin=REGLETA12-1
+Added Net: Name=NetJP6_9
+Added Pin To Net: NetName=NetJP6_10 Pin=JP6-10
+Added Pin To Net: NetName=NetJP6_10 Pin=REGLETA12-2
+Added Net: Name=NetJP6_10
+Added Class: Name=ARDUINO MEGA2560 EXPANSION BOARD
+Added Room: Name=ARDUINO MEGA2560 EXPANSION BOARD

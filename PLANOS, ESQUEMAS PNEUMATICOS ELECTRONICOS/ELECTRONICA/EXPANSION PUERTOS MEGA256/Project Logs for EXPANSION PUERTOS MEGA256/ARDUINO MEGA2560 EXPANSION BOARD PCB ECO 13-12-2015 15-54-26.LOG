@@ -1,0 +1,78 @@
+Added Pin To Net: NetName=B18 Pin=TFT_CON1-2
+Added Pin To Net: NetName=B18 Pin=TFT_CON-2
+Added Net: Name=B18
+Added Pin To Net: NetName=B19 Pin=TFT_CON1-4
+Added Pin To Net: NetName=B19 Pin=TFT_CON-4
+Added Net: Name=B19
+Added Pin To Net: NetName=B20 Pin=TFT_CON1-6
+Added Pin To Net: NetName=B20 Pin=TFT_CON-6
+Added Net: Name=B20
+Added Pin To Net: NetName=B21 Pin=TFT_CON1-8
+Added Pin To Net: NetName=B21 Pin=TFT_CON-8
+Added Net: Name=B21
+Added Pin To Net: NetName=B22 Pin=TFT_CON1-10
+Added Pin To Net: NetName=B22 Pin=TFT_CON-10
+Added Net: Name=B22
+Added Pin To Net: NetName=B23 Pin=TFT_CON1-12
+Added Pin To Net: NetName=B23 Pin=TFT_CON-12
+Added Net: Name=B23
+Added Pin To Net: NetName=B24 Pin=TFT_CON1-14
+Added Pin To Net: NetName=B24 Pin=TFT_CON-14
+Added Net: Name=B24
+Added Pin To Net: NetName=B25 Pin=TFT_CON1-16
+Added Pin To Net: NetName=B25 Pin=TFT_CON-16
+Added Net: Name=B25
+Added Pin To Net: NetName=B26 Pin=TFT_CON1-18
+Added Pin To Net: NetName=B26 Pin=TFT_CON-18
+Added Net: Name=B26
+Added Pin To Net: NetName=B27 Pin=TFT_CON1-20
+Added Pin To Net: NetName=B27 Pin=TFT_CON-20
+Added Net: Name=B27
+Added Pin To Net: NetName=B28 Pin=TFT_CON1-22
+Added Pin To Net: NetName=B28 Pin=TFT_CON-22
+Added Net: Name=B28
+Added Pin To Net: NetName=B29 Pin=TFT_CON1-24
+Added Pin To Net: NetName=B29 Pin=TFT_CON-24
+Added Net: Name=B29
+Added Pin To Net: NetName=B30 Pin=TFT_CON1-26
+Added Pin To Net: NetName=B30 Pin=TFT_CON-26
+Added Net: Name=B30
+Added Pin To Net: NetName=B31 Pin=TFT_CON1-28
+Added Pin To Net: NetName=B31 Pin=TFT_CON-28
+Added Net: Name=B31
+Added Pin To Net: NetName=B32 Pin=TFT_CON1-30
+Added Pin To Net: NetName=B32 Pin=TFT_CON-30
+Added Net: Name=B32
+Added Pin To Net: NetName=B33 Pin=TFT_CON1-32
+Added Pin To Net: NetName=B33 Pin=TFT_CON-32
+Added Net: Name=B33
+Added Pin To Net: NetName=B34 Pin=TFT_CON1-34
+Added Pin To Net: NetName=B34 Pin=TFT_CON-34
+Added Net: Name=B34
+Added Pin To Net: NetName=B35 Pin=TFT_CON1-36
+Added Pin To Net: NetName=B35 Pin=TFT_CON-36
+Added Net: Name=B35
+Change Class Name : Old Net Name=B[0..17] New Net Name=B[0..35]
+Added Member To Class: ClassName=B[0..35] Member=Element[1]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[5]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[12]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[14]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[17]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[18]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[19]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[20]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[21]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[22]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[23]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[24]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[25]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[26]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[27]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[28]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[29]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[30]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[31]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[32]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[33]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[34]: B
+Added Member To Class: ClassName=B[0..35] Member=Element[35]: B

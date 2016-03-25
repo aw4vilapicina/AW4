@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetREGLETA14_1 Pin=TFT_CON-23
+Removed Pin From Net: NetName=NetREGLETA15_4 Pin=TFT_CON-24
+Removed Pin From Net: NetName=NetREGLETA15_3 Pin=TFT_CON-26
+Removed Pin From Net: NetName=NetREGLETA14_3 Pin=TFT_CON-27
+Removed Pin From Net: NetName=NetREGLETA15_2 Pin=TFT_CON-28
+Removed Pin From Net: NetName=NetREGLETA14_4 Pin=TFT_CON-29
+Added Pin To Net: NetName=NetREGLETA14_4 Pin=TFT_CON-23
+Added Pin To Net: NetName=NetREGLETA14_3 Pin=TFT_CON-24
+Added Pin To Net: NetName=NetREGLETA14_1 Pin=TFT_CON-26
+Added Pin To Net: NetName=NetREGLETA15_4 Pin=TFT_CON-27
+Added Pin To Net: NetName=NetREGLETA15_3 Pin=TFT_CON-28
+Added Pin To Net: NetName=NetREGLETA15_2 Pin=TFT_CON-29
+Added Pin To Net: NetName=NetREGLETA15_1 Pin=REGLETA15-1
+Added Pin To Net: NetName=NetREGLETA15_1 Pin=TFT_CON-30
+Added Net: Name=NetREGLETA15_1
+Added Room: Name=ARDUINO MEGA2560 EXPANSION BOARD

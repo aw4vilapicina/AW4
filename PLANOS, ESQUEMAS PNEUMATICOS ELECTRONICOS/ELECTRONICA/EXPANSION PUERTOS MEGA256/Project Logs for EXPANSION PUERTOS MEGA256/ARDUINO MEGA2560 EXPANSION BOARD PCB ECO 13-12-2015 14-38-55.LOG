@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=REGLETA6 NewDesignator=REGLETA7
+Change Component Designator: OldDesignator=REGLETA7 NewDesignator=REGLETA8
+Change Component Designator: OldDesignator=REGLETA8 NewDesignator=REGLETA9
+Change Component Designator: OldDesignator=REGLETA9 NewDesignator=REGLETA10
+Change Component Designator: OldDesignator=REGLETA10 NewDesignator=REGLETA11
+Change Component Designator: OldDesignator=REGLETA11 NewDesignator=REGLETA12
+Change Component Designator: OldDesignator=REGLETA12 NewDesignator=REGLETA13
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA13 REGLETA_2

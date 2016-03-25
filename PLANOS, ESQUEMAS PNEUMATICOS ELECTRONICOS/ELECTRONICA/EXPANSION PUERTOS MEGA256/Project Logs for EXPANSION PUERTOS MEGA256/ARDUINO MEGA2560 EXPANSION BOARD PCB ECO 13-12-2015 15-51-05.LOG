@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=B2 Pin=TFT_CON-3
+Removed Member From Class: ClassName=B[1..18] Member=B18
+Added Pin To Net: NetName=B2 Pin=TFT_CON1-5
+Added Pin To Net: NetName=B2 Pin=TFT_CON-5
+Change Net Name : Old Net Name=B1 New Net Name=B0
+Change Net Name : Old Net Name=B4 New Net Name=B3
+Change Net Name : Old Net Name=B5 New Net Name=B4
+Change Net Name : Old Net Name=B7 New Net Name=B6
+Change Net Name : Old Net Name=B8 New Net Name=B7
+Change Net Name : Old Net Name=B9 New Net Name=B8
+Change Net Name : Old Net Name=B10 New Net Name=B9
+Change Net Name : Old Net Name=B11 New Net Name=B10
+Change Net Name : Old Net Name=B12 New Net Name=B11
+Change Net Name : Old Net Name=B14 New Net Name=B13
+Change Net Name : Old Net Name=B16 New Net Name=B15
+Change Net Name : Old Net Name=B17 New Net Name=B16
+Change Net Name : Old Net Name=B18 New Net Name=B17
+Added Pin To Net: NetName=B1 Pin=TFT_CON1-3
+Added Pin To Net: NetName=B1 Pin=TFT_CON-3
+Added Net: Name=B1
+Added Pin To Net: NetName=B5 Pin=TFT_CON1-11
+Added Pin To Net: NetName=B5 Pin=TFT_CON-11
+Added Net: Name=B5
+Added Pin To Net: NetName=B12 Pin=TFT_CON1-25
+Added Net: Name=B12
+Added Pin To Net: NetName=B14 Pin=TFT_CON1-29
+Added Pin To Net: NetName=B14 Pin=TFT_CON-29
+Added Net: Name=B14
+Change Class Name : Old Net Name=B[1..18] New Net Name=B[0..17]
+Added Member To Class: ClassName=B[0..17] Member=Element[0]: B

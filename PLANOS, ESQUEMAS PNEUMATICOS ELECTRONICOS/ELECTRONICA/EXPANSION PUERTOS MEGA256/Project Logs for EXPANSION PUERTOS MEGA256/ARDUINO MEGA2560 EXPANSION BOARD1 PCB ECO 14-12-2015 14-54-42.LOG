@@ -1,0 +1,26 @@
+Added Component: Designator=REGLETA14(REGLETA_4)
+Added Component: Designator=REGLETA15(REGLETA_4)
+Added Pin To Net: NetName=NetREGLETA14_1 Pin=REGLETA14-1
+Added Pin To Net: NetName=NetREGLETA14_1 Pin=TFT_CON-23
+Added Net: Name=NetREGLETA14_1
+Added Pin To Net: NetName=NetREGLETA14_2 Pin=REGLETA14-2
+Added Pin To Net: NetName=NetREGLETA14_2 Pin=TFT_CON-25
+Added Net: Name=NetREGLETA14_2
+Added Pin To Net: NetName=NetREGLETA14_3 Pin=REGLETA14-3
+Added Pin To Net: NetName=NetREGLETA14_3 Pin=TFT_CON-27
+Added Net: Name=NetREGLETA14_3
+Added Pin To Net: NetName=NetREGLETA14_4 Pin=REGLETA14-4
+Added Pin To Net: NetName=NetREGLETA14_4 Pin=TFT_CON-29
+Added Net: Name=NetREGLETA14_4
+Added Pin To Net: NetName=NetREGLETA15_2 Pin=REGLETA15-2
+Added Pin To Net: NetName=NetREGLETA15_2 Pin=TFT_CON-28
+Added Net: Name=NetREGLETA15_2
+Added Pin To Net: NetName=NetREGLETA15_3 Pin=REGLETA15-3
+Added Pin To Net: NetName=NetREGLETA15_3 Pin=TFT_CON-26
+Added Net: Name=NetREGLETA15_3
+Added Pin To Net: NetName=NetREGLETA15_4 Pin=REGLETA15-4
+Added Pin To Net: NetName=NetREGLETA15_4 Pin=TFT_CON-24
+Added Net: Name=NetREGLETA15_4
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA14 REGLETA_4
+Added Member To Class: ClassName=ARDUINO MEGA2560 EXPANSION BOARD Member=Component REGLETA15 REGLETA_4
+Added Room: Name=ARDUINO MEGA2560 EXPANSION BOARD

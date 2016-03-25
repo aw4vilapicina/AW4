@@ -1,0 +1,1 @@
+En esta carpeta alojaremos esquematicos,pcbs de las placas electronicas y esquemas pneumaticos del proyecto.
